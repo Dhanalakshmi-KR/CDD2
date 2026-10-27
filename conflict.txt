@@ -1,1 +1,1 @@
-Version from main branch
+Version 2 - conflict resolved
